@@ -1,0 +1,7 @@
+word;category
+suvila;hoone
+lammas;loom
+kass;loom
+kasvuhoone;hoone
+vetelpäästja;amet
+bussijuht;amet

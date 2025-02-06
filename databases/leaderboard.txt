@@ -1,0 +1,10 @@
+name;word;letters;game length;game time
+esimene1;kass;E, E;9;2025-02-06 14:28:11
+esimene2;lammas;E, Q, Q;21;2025-02-06 14:28:47
+teine1;vetelpäästja;W;15;2025-02-06 14:37:34
+dssd;vetelpäästja;W;15;2025-02-06 14:38:06
+teine3;bussijuht;V, E;11;2025-02-06 14:38:31
+teine4;vetelpäästja;D;16;2025-02-06 14:40:45
+Unknown;suvila;;7;2025-02-06 14:45:33
+tere;vetelpäästja;Ö;12;2025-02-06 15:07:55
+Tundmatu;vetelpäästja;Ö;12;2025-02-06 15:07:59
